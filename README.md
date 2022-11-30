@@ -1,4 +1,4 @@
-## Big Data for Healthcare in private (github)
+## Big Data for Healthcare in private (contact)
 ### Spark
 ### Hadoop
 ### Machine Learning models
