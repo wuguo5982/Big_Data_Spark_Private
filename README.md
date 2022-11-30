@@ -1,4 +1,5 @@
 ## Big Data for Healthcare in private (contact)
 ### Spark
-### Hadoop
-### Machine Learning models
+### Hadoop (Pig/Hive)
+### Machine Learning models 
+### Deep Learning models
